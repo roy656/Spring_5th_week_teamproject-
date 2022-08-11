@@ -1,5 +1,5 @@
 # Spring_5th_week_teamproject-
-로그인 기능 제외함.
+JWT 로그인 기능 제외함.
 
 -구현한 기능들-
 게시글 CRUD/
